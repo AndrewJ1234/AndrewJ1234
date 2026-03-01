@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![AndrewJ1234's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AndrewJ1234&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AndrewJ1234/github-readme-stats#gh-dark-mode-only)
+[![AndrewJ1234's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AndrewJ1234&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AndrewJ1234/github-readme-stats#gh-light-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/AndrewJ1234/AndrewJ1234/output/github-contribution-grid-snake.svg)
