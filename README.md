@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![AndrewJ1234's Github Stats](https://github-readme-stats-sooty-three.vercel.app/api?username=AndrewJ1234&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats-sooty-three.vercel.app/api/top-langs/?username=AndrewJ1234&layout=compact)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AndrewJ1234)
+![AndrewJ1234's Github Stats](https://github-readme-stats-sooty-three.vercel.app/api?username=AndrewJ1234&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sooty-three.vercel.app/api/top-langs/?username=AndrewJ1234&layout=compact&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AndrewJ1234&theme=tokyonight)
 ![Snake animation](https://raw.githubusercontent.com/AndrewJ1234/AndrewJ1234/output/github-contribution-grid-snake.svg)
