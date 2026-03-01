@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 # Hi there 👋
 
-<br/>
+<<br/>
 
 <a href="https://github.com/AndrewJ1234">
   <img height="200" src="https://github-readme-stats-sooty-three.vercel.app/api?username=AndrewJ1234&show_icons=true&include_all_commits=true&theme=tokyonight" />
@@ -34,5 +34,9 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
+-->
+
+![Metrics](./github-metrics.svg)
 
 <img src="https://raw.githubusercontent.com/AndrewJ1234/AndrewJ1234/output/github-contribution-grid-snake.svg" />
