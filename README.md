@@ -2,11 +2,9 @@
 
 Welcome to my GitHub! I explore full-stacking, chrome extensions, and more to solve real-world problems.
 
-
-<img src="./github-metrics.svg" width="100%" />
-
 <img src="https://raw.githubusercontent.com/AndrewJ1234/AndrewJ1234/output/github-contribution-grid-snake.svg" />
 
+<img src="./github-metrics.svg" width="100%" />
 
 <!--
 **AndrewJ1234/AndrewJ1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
