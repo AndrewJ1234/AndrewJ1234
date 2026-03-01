@@ -14,7 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![AndrewJ1234's Github Stats](https://github-readme-stats-sooty-three.vercel.app/api?username=AndrewJ1234&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sooty-three.vercel.app/api/top-langs/?username=AndrewJ1234&layout=compact&theme=tokyonight)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AndrewJ1234&theme=tokyonight)
-![Snake animation](https://raw.githubusercontent.com/AndrewJ1234/AndrewJ1234/output/github-contribution-grid-snake.svg)
+
+
+# Hi there 👋
+
+<br/>
+
+<a href="https://github.com/AndrewJ1234">
+  <img height="200" src="https://github-readme-stats-sooty-three.vercel.app/api?username=AndrewJ1234&show_icons=true&include_all_commits=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img height="200" src="https://github-readme-stats-sooty-three.vercel.app/api/top-langs/?username=AndrewJ1234&layout=compact&theme=tokyonight" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewJ1234&theme=tokyonight" />
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/AndrewJ1234/AndrewJ1234/output/github-contribution-grid-snake.svg" />
