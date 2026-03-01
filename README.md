@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![AndrewJ1234's Github Stats](https://github-readme-stats-six-bay-58.vercel.app/&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-six-bay-58.vercel.app/api/top-langs/?username=AndrewJ1234&layout=compact)
+
 ![Snake animation](https://raw.githubusercontent.com/AndrewJ1234/AndrewJ1234/output/github-contribution-grid-snake.svg)
