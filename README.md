@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 <br/>
 
 -->
-![Metrics](./github-metrics.svg)
+<img src="./github-metrics.svg" width="100%" />
 
 <img src="https://raw.githubusercontent.com/AndrewJ1234/AndrewJ1234/output/github-contribution-grid-snake.svg" />
