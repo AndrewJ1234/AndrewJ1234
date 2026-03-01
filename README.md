@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Andrew 👋
 
-Welcome to my GitHub! I explore full-stacking and chrome extensions to solve real-world problems.
+## Welcome to my GitHub! I explore full-stacking and chrome extensions to solve real-world problems.
 
 <<br/>
 
