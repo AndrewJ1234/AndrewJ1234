@@ -1,6 +1,8 @@
 ## Hi there, I'm Andrew 👋
 
-Welcome to my GitHub! I explore full-stacking, chrome extensions, and more to solve real-world problems.
+Welcome to my GitHub! I explore full-stacking, chrome extensions, and more to solve real-world problems. 
+
+Here is my work github: https://github.com/aj0000-droid
 
 <img src="https://raw.githubusercontent.com/AndrewJ1234/AndrewJ1234/output/github-contribution-grid-snake.svg" />
 
